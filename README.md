@@ -54,8 +54,8 @@ An interactive sales dashboard built using Power BI based on the Superstore data
 [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
-##🤝 Author
+## 🤝 Author
 
-Parampreet Singh Ahluwalia
-Elevate Labs Internship – Data Task
-LinkedIn Profile
+**Parampreet Singh Ahluwalia**  
+Elevate Labs Internship – Data Task  
+[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/)
