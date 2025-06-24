@@ -30,10 +30,8 @@ The dashboard analyzes key metrics from the Superstore dataset to uncover trends
 
 ## 📎 Files Included
 
-- `Superstore_Dashboard.pdf` – Exported dashboard report  
-- `Superstore_Dataset.csv` – Raw data (optional)  
-- `Superstore.pbix` – Power BI project file (if included)  
-- Screenshots (optional)
+- `DATA_SOURCE.md` – Raw data  
+- `Superstore.pbix` – Power BI project file
 
 ---
 
