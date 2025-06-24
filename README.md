@@ -6,9 +6,7 @@ An interactive sales dashboard built using Power BI based on the Superstore data
 
 ## 📁 Contents
 
-- `superstore_raw_data.csv` – Original dataset from Kaggle  
 - `superstore_dashboard.pbix` – Power BI file with cleaned data and visualizations  
-- `superstore_dashboard.pdf` – Exported PDF report  
 - `dashboard_preview.png` – Visual screenshot of the dashboard  
 - `DATA_SOURCE.md` – Dataset source information  
 - `README.md` – Project overview and instructions
