@@ -41,3 +41,8 @@ The dashboard analyzes key metrics from the Superstore dataset to uncover trends
 
 This dashboard was built as part of a data visualization internship task to practice storytelling with data and dashboard creation using Power BI.
 
+## 🤝 Author
+
+**Parampreet Singh Ahluwalia**  
+Elevate Labs Internship – Data Task  
+[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/)
